@@ -23,7 +23,7 @@ stringSurround('', 'ABC')
 
 ## API
 
-### stringSurround(string, surroundingString)
+### stringSurround(string, [surroundingString])
 
 Returns `string` surrounded with `surroundingString`.
 
@@ -34,6 +34,8 @@ The string to surround.
 
 #### surroundingString
 type: `string`
+
+default: `''`
 
 The string to surround around `string`.
 
