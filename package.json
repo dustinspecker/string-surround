@@ -1,6 +1,6 @@
 {
   "name": "string-surround",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Surround a string with another string",
   "main": "lib/index.js",
   "scripts": {
